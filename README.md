@@ -3,10 +3,15 @@
 BarberColor es una innovadora aplicación diseñada para ayudar a barberos y coloristas a identificar y analizar los colores de los cortes de pelo. Con esta herramienta, puedes tomar fotos de cortes de pelo y obtener información precisa sobre los colores utilizados, presentados en formatos RGB y hexadecimal.
 
 🚀 Características
+
 📸 Captura de fotos: Toma fotos de cortes de pelo directamente desde la aplicación.
+
 🔍 Análisis de color: Analiza la foto y extrae información detallada sobre los colores presentes.
+
 🎨 Detalles de color: Muestra los colores en formatos RGB y hexadecimal.
+
 🖥️ Interfaz amigable: Fácil de usar, con una interfaz intuitiva para una experiencia fluida.
+
 📥 Instalación
 Sigue estos pasos para instalar y ejecutar BarberColor:
 
